@@ -1,0 +1,82 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border-collapse: collapse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+ body{
+    background-image:url("../IMG/ghost-call-of-duty-3840x2160-18542.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ h1{
+  margin-inline: auto;
+  text-align: center;
+  color: rgb(0, 246, 119);
+  font-weight: bolder;
+  font-size: 50px;
+ }
+
+ .circulo-izq{
+    background-color:#214806;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 50%;
+    padding-top: 12px;
+    margin-left: 40px;
+    margin-top: 30px;
+ }
+
+
+ .cuadro-abajo-izq{
+   background-color:#297828;
+   width: 200px;
+   height: 150px;
+   margin-top: 7%;
+   margin-left: 3%;
+   text-align: center;
+   border-radius: 30px;
+   padding-bottom:40px ;
+ }
+
+ .cuadrado-grande{
+   background-color:#0a5023;
+   width: 300px;
+   height: 600px;
+   position: absolute;
+   text-align: center;
+   align-items: center;
+   top: 10%;
+   left: 70%;
+   border-radius: 40px;
+ 
+ }
+
+ .output2{
+   background-color: aliceblue;
+   width: 130px;
+   height: 30px;
+   display: block;
+   margin-inline: auto;
+   border-radius: 20px;
+ }
+
+ .output3{
+   background-color: aliceblue;
+   width: 230px;
+   height: 550px;
+   display: block;
+   margin-inline: auto;
+   border-radius: 20px;
+  
+ }
+
+button{
+  width: 70px;
+  height: 50px;
+  color: #e1e1e1;
+  background-color: black;
+  font-size:13px;
+}
